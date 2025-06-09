@@ -57,7 +57,7 @@ Controle de receitas por mês:
 
 ## 🌌 Exemplo Fictício: Padmé Amidala
 
-Como modelo de preenchimento, incluímos uma personagem fictícia da saga Star Wars: **PADMÉ NABERRIE AMIDALA SKYWALKER**. Todos os dados são ilustrativos e usados para fins educacionais e demonstrativos.
+Como modelo de preenchimento, incluí a personagem fictícia da saga Star Wars: **PADMÉ NABERRIE AMIDALA SKYWALKER**. Todos os dados são ilustrativos e usados para fins educacionais e demonstrativos.
 
 ---
 
@@ -65,7 +65,7 @@ Como modelo de preenchimento, incluímos uma personagem fictícia da saga Star W
 
 1. **Baixe a planilha** ou clone o repositório.
 2. Acesse cada aba para preencher os dados correspondentes.
-3. Use os botões de navegação lateral (se disponíveis).
+3. Use os botões de navegação lateral.
 4. Preencha os campos conforme sua realidade ou utilize os dados fictícios para testes.
 5. Salve regularmente e mantenha backups.
 
