@@ -1,6 +1,6 @@
 # 🧾 Planilha Imposto de Renda em Excel
 
-Ferramenta interativa desenvolvida em Excel para organizar, validar e centralizar informações essenciais para a declaração de Imposto de Renda. Ideal para uso pessoal, simulações ou demonstrações educacionais – com direito a um exemplo galáctico da Padmé Amidala, de *Star Wars*.
+Ferramenta interativa desenvolvida em Excel para organizar, validar e centralizar informações essenciais para a declaração de Imposto de Renda. Ideal para uso pessoal e/ou simulações. Aqui usei um "exemplo galáctico" da Padmé Amidala, de *Star Wars*.
 
 📥 **[Clique aqui para baixar a planilha](Projeto_DIO_IR.xlsx)**
 
